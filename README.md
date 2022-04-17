@@ -31,10 +31,4 @@ Extras: <br>
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 <br>
 <br>
-Temos um período de tempo de duas semanas para desenvolver o projeto e vamos trabalhar com o sistema ágil de desenvolvimento, utilizando o Trello da seguinte forma:
-<br>
-A coluna Pronto pra iniciar apresenta os cartões com os elementos ainda não desenvolvidos.
-Já na coluna Desenvolvendo ficarão os elementos que você estiver desenvolvendo no momento. Ao iniciar uma tarefa, você poderá mover o cartão que contém a tarefa para esta coluna.<br>
-No Pausado estarão os elementos que você começou a desenvolver, mas precisou parar por algum motivo.<br>
-Por fim, a coluna Concluído terá os elementos já concluídos.<br>
-O Trello é uma ferramenta de uso individual para você controlar o andamento das suas atividades, mas ela não será avaliada.<br>
+
