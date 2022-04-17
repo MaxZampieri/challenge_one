@@ -18,11 +18,12 @@ body {
 
 
 #campo::placeholder {
-    color: #0A3871;
+    color: #0115266b;
+    font-size: 30px;
     
 }
 textarea {
-    color: #0A3871;
+    color: #011526;
     font-size: 32px;
     font-weight: 100;
     
@@ -151,6 +152,12 @@ textarea {
 
 #none {
     font-size: 18px;
+}
+.codificador-text {
+    font-family: "Montserrat";
+    font-size: 20px;
+    color: #011526;
+    text-transform: uppercase;
 }
 
 
