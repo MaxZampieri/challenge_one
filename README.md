@@ -31,5 +31,6 @@ Extras: <br>
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 <br>
 <br>
-<a>https://maxzampieri.github.io/challenge_one/</a>
+<a href="https://maxzampieri.github.io/challenge_one/"
+target="_blank"></a>
 
