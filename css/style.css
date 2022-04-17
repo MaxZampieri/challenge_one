@@ -16,6 +16,7 @@ body {
 
 }
 
+
 #campo::placeholder {
     color: #0A3871;
     
@@ -121,7 +122,9 @@ textarea {
 
 .botao3 {
     background-color: #309E78;
-    color: #FFF
+    color: #FFF;
+    margin-bottom: 10px;
+    
 }
 
 #decodificador {
