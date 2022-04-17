@@ -18,11 +18,13 @@ body {
 
 #campo::placeholder {
     color: #0A3871;
+    
 }
 textarea {
     color: #0A3871;
     font-size: 32px;
     font-weight: 100;
+    
     
 }
 
@@ -112,7 +114,7 @@ textarea {
 .botao2 {
     color: #011526;
     background-color: #FFD152;
-    margin-left: 48px;
+    margin-left: 45px;
     font-weight: bolder;
 }
 
