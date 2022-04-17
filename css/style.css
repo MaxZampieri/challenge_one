@@ -114,7 +114,8 @@ textarea {
 .botao2 {
     color: #011526;
     background-color: #FFD152;
-    margin-left: 45px;
+    margin-left: 44px;
+    margin-right: 7px;
     font-weight: bolder;
 }
 
