@@ -110,7 +110,15 @@ textarea {
     background-color: #FFD152;
     color: #011526;
     font-weight: bolder;
+
     
+}
+.botao1:hover {
+    background-color:#F25F35;
+}
+.botao1:active {
+    transform: scale(0.98);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
 
 .botao2 {
@@ -120,12 +128,24 @@ textarea {
     margin-right: 7px;
     font-weight: bolder;
 }
+.botao2:hover {
+    background-color:#F25F35;
+}
+.botao2:active {
+    transform: scale(0.98);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
 
 .botao3 {
     background-color: #309E78;
     color: #FFF;
-    margin-bottom: 10px;
-    
+    margin-bottom: 10px;  
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+.botao3:active {
+    transform: scale(0.98);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
 
 #decodificador {

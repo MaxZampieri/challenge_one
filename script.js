@@ -56,7 +56,7 @@ function copy() {
     //navigator.clipboard.writeText(input2.value)
     document.querySelector('#campo2').select();
     document.execCommand('copy');
-    alert('Copiado!');
+    alert('Copiado para a área de transferência');
 }
 
 
